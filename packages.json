@@ -1,0 +1,18 @@
+[
+    {
+        "package": "robis",
+        "url": "https://github.com/iobis/robis"
+    },
+    {
+        "package": "ghettoblaster",
+        "url": "https://github.com/pieterprovoost/ghettoblaster"
+    },
+    {
+        "package": "rdwcawriter",
+        "url": "https://github.com/pieterprovoost/r-dwca-writer"
+    },
+    {
+        "package": "landr",
+        "url": "https://github.com/pieterprovoost/landr"
+    }
+]
